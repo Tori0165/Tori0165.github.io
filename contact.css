@@ -1,0 +1,64 @@
+body{
+    background-color: rgba(0, 0, 0, 0.863);
+}
+hr{ /* line below menu*/
+    border-top: 1px;
+    margin: 20px;
+}
+h1{ /*art of Tori*/
+    color: white;
+    font-family: 'Amatic SC', cursive, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    border: 1px solid white;
+    width: 500px;
+    margin: auto;
+}
+.menu{ /*nav*/
+    text-align: center;
+    line-height: 50px;
+}
+a{
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-decoration: none;
+}
+h2{ /*a little about me...*/
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 25px;
+    line-height: 20px;
+}
+p{ /*about me description*/
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    margin: auto;
+    line-height: 30px;
+    width: 300px;
+}
+.submissionform{
+    max-width: 300px;
+    margin: 2rem auto;
+    text-align: center;
+}
+input, textarea{
+    display: block;
+    width: 100%;
+}
+#sendBtn{
+    border:0;
+    background: grey;
+    margin: 2px;
+    font-family: 'Quicksand' sans-serif;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+
+

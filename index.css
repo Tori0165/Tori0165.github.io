@@ -1,0 +1,36 @@
+body{ /*page colour*/
+    background-color: rgba(0, 0, 0, 0.863);
+}
+hr{ /*line below nav*/
+    border-top: 1px;
+    margin: 20px;
+}
+h1{ /*art of Tori*/
+    color: white;
+    font-family: 'Amatic SC', cursive, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    border: 1px solid white;
+    width: 500px;
+    margin: auto;
+}
+.menu{ /*nav*/
+    text-align: center;
+    line-height: 50px;
+}
+.images{
+    width: 100%;
+    height: auto;
+}
+a{
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    text-decoration: none;
+}
+#insta, #deviantart, #reddit{ /*logos*/
+    width: 30px;
+    margin-left: 45px;
+}
